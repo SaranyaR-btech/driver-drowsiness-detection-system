@@ -15,4 +15,16 @@ Drowsy driving accidents can lead to legal consequences for drivers, including c
 ## BLOCK DIAGRAM
 ![CIRCUIT DIAGRAM](https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/d2a7749d-591e-4176-aa13-46168cf4e926)
 
+## HARDWARE AND SOFTWARE REQUIREMENTS
+# HARDWARE
+* Arduino nano
+* buzzer
+* sensor
+* battery
+* switch
+* arduini cable
+
+# SOFTWARE
+* Arduino IDE
+
 
