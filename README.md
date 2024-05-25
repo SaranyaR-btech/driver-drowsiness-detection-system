@@ -13,6 +13,6 @@ Drowsy driving accidents can lead to legal consequences for drivers, including c
  Accessibility is also a key consideration in our design. We aim to create a system that is easy to wear and adaptable to different preferences and needs. Whether someone wears prescription glasses or prefers sunglasses, our solution can be seamlessly integrated into their eyewear of choice.Accessibility is also a key consideration in our design. We aim to create a system that is easy to wear and adaptable to different preferences and needs. Whether someone wears prescription glasses or prefers sunglasses, our solution can be seamlessly integrated into their eyewear of choice.Moreover, we prioritize affordability without compromising on performance. By utilizing cost-effective components and simple yet effective technology, we ensure that our invention is accessible to a wide range of users, regardless of their budget constraints.Ultimately, our overarching objective is to improve road safety by reducing the incidence of accidents caused by drowsy driving. By achieving this goal, we aim to make a tangible and positive impact on society, saving lives and preventing injuries on the road.
 
 ## BLOCK DIAGRAM
-https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/d2a7749d-591e-4176-aa13-46168cf4e926
+![CIRCUIT DIAGRAM](https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/d2a7749d-591e-4176-aa13-46168cf4e926)
 
 
