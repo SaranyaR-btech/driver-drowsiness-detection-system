@@ -33,4 +33,10 @@ The incorporation of a vibration mechanism near the ear ensures that the alert i
 Additionally, by integrating this system into spectacles, you're making it accessible and convenient for all drivers to use, regardless of their vehicle type or driving conditions. This ease of use enhances the system's effectiveness and encourages widespread adoption, ultimately contributing to a reduction in drowsy driving accidents and improving overall road safety.
 
 
+## PROTOTYPE
+
+![WhatsApp Image 2024-05-25 at 6 03 58 PM](https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/5c292161-504c-4b23-8180-66a5bf07d99e)
+
+![WhatsApp Image 2024-05-25 at 6 03 44 PM](https://github.com/SaranyaR-btech/driver-drowsiness-detection-system/assets/143238930/4fd54c86-db97-488d-a08f-ae61d9033003)
+
 
