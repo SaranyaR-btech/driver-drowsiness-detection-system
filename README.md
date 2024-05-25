@@ -1,2 +1,2 @@
 # driver-drowsiness-detection-system
-## OBJECTIVE
+## OBJECTIVE OF THE INVENTION 
